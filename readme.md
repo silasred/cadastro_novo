@@ -4,5 +4,6 @@
 > Para rodar esse projeto por favor digite
 
 ```
-node add.js
+npm intall
+react
 ```
